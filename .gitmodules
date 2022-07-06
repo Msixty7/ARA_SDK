@@ -2,8 +2,8 @@
 	path = ARA_API
 	url = https://github.com/Celemony/ARA_API
 [submodule "ARA_Library"]
-	path = ARA_Library
-	url = https://github.com/Celemony/ARA_Library
+	path = ARA_Library	
+	url = https://github.com/Msixty7/ARA_Library.git
 [submodule "ARA_Examples"]
 	path = ARA_Examples
 	url = https://github.com/Celemony/ARA_Examples
